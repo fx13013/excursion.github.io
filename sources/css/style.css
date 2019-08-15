@@ -24,3 +24,9 @@ h4 {
     font-size: 21px;
     color: gray;
 }
+
+footer p{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
